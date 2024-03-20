@@ -3,8 +3,10 @@
  """
 from .load_user import load_user_data, save_user_data
 
+ """
+ Function to change user password
+ """
 
-# Function to change user password
 def change_password():
     print("\033[95mChange Password\033[0m")
     username = input("\033[1mEnter username: \033[0m")
