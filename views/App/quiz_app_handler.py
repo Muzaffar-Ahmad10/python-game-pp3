@@ -1,13 +1,9 @@
- """
- Importing all the functiona and methods from other python files
- """
+# Importing all the functiona and methods from other python files
 from .choose_language import choose_language
 from .load_questions import load_questions
 from .display_quiz import display_quiz
 
-"""
- This function is starting the python quiz and ask from the user questions.
-"""
+# This function is starting the python quiz and ask from the user questions.
 def start_quiz(username):
     language = choose_language()
     if not language:

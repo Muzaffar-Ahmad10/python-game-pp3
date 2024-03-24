@@ -1,6 +1,5 @@
- """
- This function is loading all the question store in following python dictionaries:
- """
+
+# This function is loading all the question store in following python dictionaries:
 def load_questions(language):
     
     questions = {

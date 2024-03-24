@@ -1,8 +1,6 @@
 
-"""
- this function is actually taking the arguements from the user to show him
- questions about the selected lanuage or choosen option.
-"""
+#this function is actually taking the arguements from the user to show him
+#questions about the selected lanuage or choosen option.
 def choose_language():
     print("\n\n\033[95mChoose a language for the quiz:\033[0m\n\n")
     print("\033[94m1. HTML\n2. CSS\n3. Python\n4. JavaScript\n5. C++\033[0m")

@@ -1,15 +1,11 @@
- 
- """
- Importing python built-in methods and modules
- """
+
+# Importing python built-in methods and modules
 import os
 import json
 from datetime import datetime
 import sys
- 
- """
- Impoting functions and methods from python files.
- """
+
+# Impoting functions and methods from python files.
 from .show_result import print_results
 from .quiz_app_handler import start_quiz
 
@@ -17,9 +13,7 @@ RED = '\033[91m'
 GREEN = '\033[92m'
 ENDC = '\033[0m'
 
- """
- This function is saving the result of the user quiz into Json file.
- """
+# This function is saving the result of the user quiz into Json file.
 def save_result(username, language, questions, responses, score):
     timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
     result = {

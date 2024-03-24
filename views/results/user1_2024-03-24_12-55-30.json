@@ -1,0 +1,66 @@
+{
+    "username": "user1",
+    "language": "Python",
+    "results": [
+        {
+            "question": "What is Python?",
+            "user_answer": "Python is a high-level programming language known for its simplicity and readability.",
+            "correct_answer": "Python is a high-level programming language known for its simplicity and readability.",
+            "is_correct": true
+        },
+        {
+            "question": "What is the syntax to define a function in Python?",
+            "user_answer": "def function_name(parameters):",
+            "correct_answer": "def function_name(parameters):",
+            "is_correct": true
+        },
+        {
+            "question": "Which keyword is used for defining a loop in Python?",
+            "user_answer": "loop",
+            "correct_answer": "for",
+            "is_correct": false
+        },
+        {
+            "question": "How do you comment out multiple lines of code in Python?",
+            "user_answer": "Use // at the beginning of each line.",
+            "correct_answer": "Use triple quotes (''' or ''') to enclose the block of comments.",
+            "is_correct": false
+        },
+        {
+            "question": "What is the output of 'print(2 + 3 * 4)' in Python?",
+            "user_answer": "The output is 14.",
+            "correct_answer": "The output is 14.",
+            "is_correct": true
+        },
+        {
+            "question": "What is the purpose of 'if' statement in Python?",
+            "user_answer": "'if' statement is used to define a function.",
+            "correct_answer": "'if' statement is used to execute a block of code only if a specified condition is true.",
+            "is_correct": false
+        },
+        {
+            "question": "What does the 'len()' function do in Python?",
+            "user_answer": "The 'len()' function returns the number of items in an object.",
+            "correct_answer": "The 'len()' function returns the number of items in an object.",
+            "is_correct": true
+        },
+        {
+            "question": "How do you create a list in Python?",
+            "user_answer": "You can create a list using parentheses (()).",
+            "correct_answer": "You can create a list by enclosing elements in square brackets ([]).",
+            "is_correct": false
+        },
+        {
+            "question": "What is the purpose of the 'append()' method in Python lists?",
+            "user_answer": "The 'append()' method is used to update an element in a list.",
+            "correct_answer": "The 'append()' method is used to add an element to the end of a list.",
+            "is_correct": false
+        },
+        {
+            "question": "How do you access the last element of a list in Python?",
+            "user_answer": "You can access the last element of a list using index -2.",
+            "correct_answer": "You can access the last element of a list using index -1.",
+            "is_correct": false
+        }
+    ]
+}

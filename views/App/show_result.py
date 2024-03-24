@@ -1,17 +1,11 @@
 
- """
- Importing pyton builtin functions
- """
+# Importing pyton builtin functions
 import json
 
- """
- This is third-party library for colors
- """ 
+# This is third-party library for colors
 from colorama import init, Fore, Style
 
- """
- This function is printing the results for the user if he want to check so.
- """
+# This function is printing the results for the user if he want to check so.
 def print_results(results_file):
     init()
 

@@ -1,0 +1,66 @@
+{
+    "username": "user1",
+    "language": "CSS",
+    "results": [
+        {
+            "question": "What does CSS stand for?",
+            "user_answer": "Computer Style Sheets",
+            "correct_answer": "Cascading Style Sheets",
+            "is_correct": false
+        },
+        {
+            "question": "Which CSS property is used to change the text color of an element?",
+            "user_answer": "font-color",
+            "correct_answer": "color",
+            "is_correct": false
+        },
+        {
+            "question": "Which CSS property is used to change the background color of an element?",
+            "user_answer": "background-color",
+            "correct_answer": "background-color",
+            "is_correct": true
+        },
+        {
+            "question": "Which CSS property is used to set the height and width of an element?",
+            "user_answer": "size",
+            "correct_answer": "height and width",
+            "is_correct": false
+        },
+        {
+            "question": "Which CSS property is used to control the space between elements?",
+            "user_answer": "padding",
+            "correct_answer": "margin",
+            "is_correct": false
+        },
+        {
+            "question": "Which CSS property is used to make text bold?",
+            "user_answer": "font-weight",
+            "correct_answer": "font-weight",
+            "is_correct": true
+        },
+        {
+            "question": "Which CSS property is used to remove the underline from links?",
+            "user_answer": "underline",
+            "correct_answer": "text-decoration",
+            "is_correct": false
+        },
+        {
+            "question": "Which CSS property is used to align text to the center of its container?",
+            "user_answer": "text-center",
+            "correct_answer": "text-align",
+            "is_correct": false
+        },
+        {
+            "question": "Which CSS property is used to set the font size of text?",
+            "user_answer": "size",
+            "correct_answer": "font-size",
+            "is_correct": false
+        },
+        {
+            "question": "Which CSS property is used to create rounded corners on an element?",
+            "user_answer": "border-radius",
+            "correct_answer": "border-radius",
+            "is_correct": true
+        }
+    ]
+}
